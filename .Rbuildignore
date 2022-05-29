@@ -1,2 +1,5 @@
 ^dojo\.r\.test\.Rproj$
 ^\.Rproj\.user$
+^LICENSE\.md$
+.lintr
+^\.github$
